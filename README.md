@@ -1,1 +1,1 @@
-# ML_course_hw_1
+# ML_course_hws
